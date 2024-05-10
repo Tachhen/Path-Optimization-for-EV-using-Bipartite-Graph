@@ -1,0 +1,1 @@
+A simple Mini-Project written in python that aims to create a graph consisting of Electric Vehicles ,Charging Stations and Empty lanes .We also applied the Dijkstra's Algorithm to find th eshortest distance between nodes and the average energy consumpton trends wiht the rise in   no. of vehicles with the  no. of charging stations remaining  same.
