@@ -1,7 +1,7 @@
 var assert = require('assert');
 
 var twoColorGraph = function (N, d) {
-  //your code here
+ 
 };
 
 try {
